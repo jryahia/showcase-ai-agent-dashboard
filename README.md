@@ -51,3 +51,5 @@ Client-facing agents need non-developers to adjust tone, rules and limits safely
 ---
 
 Built by [Yahya Jarray](https://github.com/jryahia). Interested in a similar system? [Get in touch](mailto:yahiajarray43@gmail.com).
+
+This repository contains no source code. It is a case study for a proprietary project. © Yahya Jarray.
