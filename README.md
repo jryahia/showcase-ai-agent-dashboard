@@ -44,6 +44,10 @@ Client-facing agents need non-developers to adjust tone, rules and limits safely
 
 ![Agent profile configuration](assets/00-home.png)
 
+**Personality sliders**
+
+![Personality sliders](assets/10-personality.png)
+
 ---
 
 Built by [Yahya Jarray](https://github.com/jryahia). Interested in a similar system? [Get in touch](mailto:yahiajarray43@gmail.com).
