@@ -40,6 +40,8 @@ Client-facing agents need non-developers to adjust tone, rules and limits safely
 
 ## Screenshots
 
+> Screenshots show the app running on seeded demo data, not client data.
+
 **Agent profile configuration**
 
 ![Agent profile configuration](assets/00-home.png)
